@@ -5,3 +5,4 @@ chromadb
 transformers
 huggingface_hub
 llama-index==0.10.39
+llama-index-embeddings-huggingface==0.1.4
